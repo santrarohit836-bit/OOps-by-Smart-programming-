@@ -1,0 +1,20 @@
+Polymorphism ka matlab hota hai “many forms”
+👉 Ek hi cheez ka alag-alag forms mein behave karna.
+
+
+🌍 Real Life Example:-
+water - liquid,gase ice etc 
+shape - circule , rectangle triangle etc 
+sound - bark , song etc 
+
+
+Types of Polymorphism :- 
+1️⃣ Compile Time Polymorphism (Static polymorphism bhi bolte h)
+→ Achieved by Method Overloading
+-ye compiler ke through handle hota h
+2️⃣ Run Time Polymorphism (Dynamic polymorphism bhi bolte h)
+→ Achieved by Method Overriding
+- JVM ke through handle hota h 
+
+
+

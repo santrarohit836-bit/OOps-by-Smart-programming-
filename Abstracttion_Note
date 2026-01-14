@@ -1,7 +1,7 @@
 📌Definition:-Abstraction is hiding internal implementation & just highlighting the setup services that we are offering.
 
-Real life example:- abstraction hiding internal implementation (iska matlab: car ke andar ke internal components jaise engine kaise kaam karta hai, gearbox, clutch, brakes ka internal system, fuel combustion process — yeh sab user se chhupa hota hai)
- just highlighting the setup services that we are offering(iska matlab: kar ka vah components Jo user ko dikhaya jata hai, Jo actually need hota hai like 
+Real life example:- abstraction hiding internal implementation (iska matlab: car ke andar ke internal components jaise engine kaise kaam karta hai, gearbox, clutch, brakes ka internal system, fuel combustion process — yeh sab user se chhupa hota hai , Jo component ke dwara kar banaa Ho Jo ki jarurat nahin hota hai user ke liye)
+ & just highlighting the setup services that we are offering(iska matlab: kar ka vah components Jo user ko dikhaya jata hai, Jo actually need hota hai like 
 Steering ghumao → car turn kare
 Accelerator dabao → speed badhe
 Brake dabao → car ruk jaaye

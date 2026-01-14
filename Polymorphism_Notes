@@ -16,5 +16,14 @@ Types of Polymorphism :-
 → Achieved by Method Overriding
 - JVM ke through handle hota h 
 
+📌 difference :-
+Method Overloading            | Method Overriding
+-------------------------------------------------
+1) same name                  | 1) same name
+2) same class                 | 2) different class
+3) Different arguments        | 3) same arguments
+   - No. of arg.              |    - No. of arg.
+   - Seq. of arg.             |    - Seq. of arg.
+   - Type of arg.             |    - Type of arg.
 
 

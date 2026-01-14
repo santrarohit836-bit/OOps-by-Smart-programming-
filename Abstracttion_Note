@@ -6,6 +6,50 @@ Brake dabao → car ruk jaaye
 Gear change karo → smooth drive.)
 
 
+
+
 -in "abstract class" , (0 ya 100)% abstraction achieve Kiya ja sakta hai .
 
+
+
+
+
 - in  "interfaces",  purely 100% abstraction achieve Kiya jata hai not 20%,30% but directly 100% achieve karte Hain.
+
+
+
+
+
+- "abstract class" ka "object" we can not create  but "reference" bana  sakte hain 👇.
+Ex by code :-
+  ❌ Wrong Code (Abstract class ka object create karna):-
+
+   abstract class Car {
+    abstract void start();
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Car c = new Car();
+        c.start();
+    }
+}
+
+✅ Correct Code (Abstract class ka reference + child class ka object)
+
+abstract class Car {
+    abstract void start();
+}
+
+class BMW extends Car {
+    void start() {
+        System.out.println("BMW starts with button");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Car c = new BMW();👈 
+        c.start();
+    }
+}

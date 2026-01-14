@@ -8,9 +8,22 @@ shape - circule , rectangle triangle etc
 sound - bark , song etc 
 
 
+
 Types of Polymorphism :- 
 1️⃣ Compile Time Polymorphism (Static polymorphism bhi bolte h)
 → Achieved by Method Overloading
+-REAL TIME EXAMPLE OF METHOD OVERLOADING 👇 :- 
+
+📱 Real Life Example: Mobile Phone – Call Feature
+Socho tumhare mobile mein call() naam ka ek feature hai.
+Ex- call(9876543210),call("+91", 9876543210),call(9876543210, true)
+yahan ham dekh sakte hain ki call method se mein per number different ho sakte hain.
+
+
+
+
+
+
 -ye compiler ke through handle hota h
 2️⃣ Run Time Polymorphism (Dynamic polymorphism bhi bolte h)
 → Achieved by Method Overriding
